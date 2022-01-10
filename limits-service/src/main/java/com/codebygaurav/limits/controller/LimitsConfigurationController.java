@@ -2,9 +2,6 @@ package com.codebygaurav.limits.controller;
 
 
 import com.codebygaurav.limits.bean.LimitsConfiguration;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class LimitsConfigurationController {
